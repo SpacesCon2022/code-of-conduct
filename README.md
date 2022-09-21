@@ -36,7 +36,7 @@ The following behaviors are considered harassment and are unacceptable:
 
 ## Consequences of Unacceptable Behavior
 
-Unacceptable behavior from any summit community participants, including those with decision-making authority, will not be tolerated.
+Unacceptable behavior from any space participants, including those with decision-making authority, will not be tolerated.
 
 Anyone asked to stop unacceptable behavior is expected to comply immediately.
 
@@ -44,7 +44,7 @@ If an event participant engages in unacceptable behavior, the organizers may tak
 
 ## Reporting guidelines
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify the summit conduct team as soon as possible by messaging our team:
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify the space conduct team as soon as possible by messaging our team:
 
 - Stef, [@StefLikeCurry](https://twitter.com/StefLikeCurry)
 - Ramón, [@hola_soy_milk](https://twitter.com/hola_soy_milk)
