@@ -42,13 +42,13 @@ Anyone asked to stop unacceptable behavior is expected to comply immediately.
 
 If an event participant engages in unacceptable behavior, the organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the event, as well as associated and future events without warning.
 
-## Reporting guidelines
+## Reporting guidelines (Code of Conduct Team)
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify the space conduct team as soon as possible by messaging our team:
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify the code of conduct team (separate from organizers) as soon as possible by messaging them:
 
-- Stef, [@StefLikeCurry](https://twitter.com/StefLikeCurry)
-- Ramón, [@hola_soy_milk](https://twitter.com/hola_soy_milk)
-- Marino, [@virtualized6ix](https://twitter.com/virtualized6ix)
+- Arit, [@AritDeveloper](https://twitter.com/AritDeveloper)
+- Kyle, [@TechSquidTV](https://twitter.com/TechSquidTV)
+- Ilhan, [@syzygiess](https://twitter.com/syzygiess)
 
 ## Scope
 
